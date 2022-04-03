@@ -1,4 +1,4 @@
-from correo import *
+from clases.correo import *
 import re
 
 def comprobacion(correo):
