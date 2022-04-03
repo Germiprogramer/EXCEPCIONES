@@ -42,5 +42,6 @@ La dirección del repositorio es la siguiente: https://github.com/Germiprogramer
         correo = Correo(usuario, direccion)
         comprobacion(correo)
 
+<img width="245" alt="2022-04-03 (4)" src="https://user-images.githubusercontent.com/91720991/161436337-914b0af5-278e-42c3-8715-6c88528713a0.png">
 
-<img width="138" alt="2022-04-03 (2)" src="https://user-images.githubusercontent.com/91720991/161435717-b7663da6-3949-4bf0-95e3-632d58189cbb.png">
+
