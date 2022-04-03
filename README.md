@@ -1,6 +1,9 @@
 # EXCEPCIONES
 
-SE ha realizado un programa simulando la entrada de una dirección de correo electrónico.
+Se ha realizado un programa simulando la entrada de una dirección de correo electrónico.
+
+La dirección del repositorio es la siguiente: https://github.com/Germiprogramer/EXCEPCIONES.git
+
 
 # Clase Correo
 
